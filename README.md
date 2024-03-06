@@ -7,3 +7,5 @@
 #### Advices
   - [Low-level advice for systems research](https://lalith.in/2020/09/27/Low-Level-Advice-For-Systems-Research/)
   - [remzi-advice](https://youtu.be/fqPSnjewkuA?si=KbkgHyku-gjsjRqT)
+  - [How to get a lor by Matt Might](https://matt.might.net/articles/how-to-recommendation-letter/)
+  - [Twitter Thread on what to write in a SOP/research statement by Vijay Chidambaram](https://threadreaderapp.com/thread/933388419589459969.html)
