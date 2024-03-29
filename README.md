@@ -10,3 +10,6 @@
   - [remzi-advice](https://youtu.be/fqPSnjewkuA?si=KbkgHyku-gjsjRqT)
   - [How to get a lor by Matt Might](https://matt.might.net/articles/how-to-recommendation-letter/)
   - [Twitter Thread on what to write in a SOP/research statement by Vijay Chidambaram](https://threadreaderapp.com/thread/933388419589459969.html)
+  - [Grad School Resources](https://martiansideofthemoon.github.io/2018/05/29/grad-resources.html)
+  - [master list of interview questions](https://www.reddit.com/r/gradadmissions/comments/rxizvp/master_list_of_interview_questions/)
+  - [Applying to Ph.D Programs in Computer Science](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
