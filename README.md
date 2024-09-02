@@ -13,3 +13,4 @@
   - [Grad School Resources](https://martiansideofthemoon.github.io/2018/05/29/grad-resources.html)
   - [master list of interview questions](https://www.reddit.com/r/gradadmissions/comments/rxizvp/master_list_of_interview_questions/)
   - [Applying to Ph.D Programs in Computer Science](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
+  - [applications guide](https://lucylai.com/blog/gradapps#should-i-reach-out-to-pis-before-applying)
