@@ -1,4 +1,10 @@
-# Notes
+## MLSYS Courses
+  - [Machine Learning Systems, CMU](https://mlsyscourse.org/schedule)
+  - [CS 229S - Systems for Machine Learning, Stanford](https://cs229s.stanford.edu/fall2023/)
+  - [Big Data and Machine Learning Systems, NYU](https://nyu-mlsys.github.io/schedule.html)
+  - [Advanced Machine Learning Systems, Cornell](https://www.cs.cornell.edu/courses/cs6787/2024sp/)
+  - [Systems for Serving Generative AI, Princeton](https://www.cs.princeton.edu/~ravian/COS597_F24/)
+  - [Systems for Machine Learning, Brown](https://cs.brown.edu/courses/csci1390/)
 
 #### Important Links
   - [A neat way to measure cuda kernel execution time in pytorch](https://www.speechmatics.com/company/articles-and-news/timing-operations-in-pytorch)
